@@ -7,7 +7,7 @@
 4. The game continues until one of the players reaches 30.
 
 The numbers that the computer chooses are generated pseudorandomly. The only time
-that the number is not random is if the computer has a change to win (`(30 - sum) <= 5`).
+that the number is not random is if the computer has a chance to win (`(30 - sum) <= 5`).
 
 ## Known Issues
 * If the user inputs anything other than an integer, the program will crash. (Maybe I'll fix this later... or not)
